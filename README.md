@@ -22,7 +22,13 @@ A simple Android application for checking MRT currency/fare information.
 
 ## 📸 Screenshots
 
-Screenshots of the application will be added here.
+### Home Screen
+
+![MRT Currency Check Home Screen](screenshots/home-screen.png)
+
+### Currency Screen
+
+![MRT Currency Check Currency Screen](screenshots/currency-screen.png)
 
 ## 🚀 Download
 
